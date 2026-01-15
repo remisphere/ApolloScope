@@ -1,3 +1,8 @@
+# Archiving notice
+This was a rough tool I made during my PhD to help with automating experiments,
+I never got the time or energy to extend it to the whole dataset nor to make it friendlier to use.
+For what it is worth, while archiving, I am switching the licence from GLPLv3 to MIT.
+
 # 🔎 ApolloScope - ApolloScape dataset loading tool
 
 [![ApolloScape][apolloscape_badge]][apolloscape_link]
